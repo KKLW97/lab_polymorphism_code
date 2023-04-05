@@ -1,6 +1,6 @@
 package enums;
 
-public enum baseFlavours {
+public enum BaseFlavours {
     REDVELVET,
     CHOCOLATE,
     VANILLA,
